@@ -6,7 +6,7 @@
  <linearGradient id="name" x1="0" x2="1"><stop stop-color="#fff"/><stop offset=".55" stop-color="#c7d2fe"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
  <linearGradient id="viceCity" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff5ca8" stop-opacity=".52"/><stop offset=".48" stop-color="#8a5cff" stop-opacity=".28"/><stop offset="1" stop-color="#ff9b54" stop-opacity=".38"/></linearGradient>
  <radialGradient id="viceSun"><stop stop-color="#ffd0a6" stop-opacity=".9"/><stop offset="1" stop-color="#ff5ca8" stop-opacity=".06"/></radialGradient>
- <clipPath id="terminalScene"><rect x="60" y="314" width="614" height="96" rx="12"/></clipPath>
+ <clipPath id="financeScene"><rect x="730" y="44" width="410" height="372" rx="16"/></clipPath>
  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
  <clipPath id="frame"><rect width="1200" height="460" rx="22"/></clipPath>
  <clipPath id="commandReveal"><rect x="96" y="340" width="0" height="24"><animate attributeName="width" values="0;0;166;166;166" keyTimes="0;0.08;0.34;0.92;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
@@ -38,16 +38,7 @@
  <rect x="454" y="254" width="180" height="30" rx="8" fill="#d29922" fill-opacity=".12" stroke="#d29922" stroke-opacity=".5"/><text x="544" y="274" fill="#e3b341">Web · systems</text>
 </g>
 <g class="rise r5">
- <g clip-path="url(#terminalScene)">
-  <rect x="60" y="314" width="614" height="96" fill="#10101d"/>
-  <rect x="60" y="314" width="614" height="96" fill="url(#viceCity)"/>
-  <circle cx="610" cy="356" r="45" fill="url(#viceSun)"/>
-  <circle cx="610" cy="356" r="25" fill="#ffb17c" fill-opacity=".18"/>
-  <path d="M60 390H674M60 398H674M60 406H674" stroke="#ff9acb" stroke-opacity=".14" stroke-width="1"/>
-  <path d="M574 410Q582 385 590 370M590 370Q574 364 568 350M590 370Q597 351 614 344M590 370Q606 368 621 377M590 370Q582 349 584 336M590 370Q570 377 560 390" fill="none" stroke="#100d24" stroke-width="4" stroke-linecap="round"/>
-  <path d="M642 410Q646 390 653 380M653 380Q640 375 636 365M653 380Q665 363 674 362M653 380Q665 381 674 390" fill="none" stroke="#100d24" stroke-width="3.5" stroke-linecap="round"/>
- </g>
- <rect x="60" y="314" width="614" height="96" rx="12" fill="#010409" fill-opacity=".76" stroke="#30363d"/>
+ <rect x="60" y="314" width="614" height="96" rx="12" fill="#010409" fill-opacity=".85" stroke="#30363d"/>
  <circle cx="80" cy="330" r="4.5" fill="#f85149"/><circle cx="95" cy="330" r="4.5" fill="#d29922"/><circle cx="110" cy="330" r="4.5" fill="#3fb950"/>
  <text x="634" y="334" class="mono" font-size="11.5" fill="#6e7681" text-anchor="end">~/projects/ai-job-finder</text>
  <text x="78" y="356" class="mono" font-size="15" fill="#3fb950">$</text>
@@ -56,7 +47,15 @@
  <g class="commandOut"><text x="78" y="388" class="mono" font-size="14" fill="#8b949e">status: <tspan fill="#3fb950" font-weight="700">project workspace ready</tspan></text></g>
 </g>
 <g class="rise r3">
- <rect x="730" y="44" width="410" height="372" rx="16" fill="#0d1117" fill-opacity=".9" stroke="#30363d"/>
+ <rect x="730" y="44" width="410" height="372" rx="16" fill="#0d1117" stroke="#30363d"/>
+ <g clip-path="url(#financeScene)">
+  <rect x="730" y="44" width="410" height="372" fill="url(#viceCity)" opacity=".42"/>
+  <circle cx="1060" cy="145" r="92" fill="url(#viceSun)" opacity=".62"/>
+  <circle cx="1060" cy="145" r="48" fill="#ffb17c" fill-opacity=".10"/>
+  <path d="M730 350H1140M730 366H1140M730 382H1140M730 398H1140" stroke="#ff9acb" stroke-opacity=".09"/>
+  <path d="M1080 416Q1088 354 1104 312M1104 312Q1074 298 1064 273M1104 312Q1114 277 1140 260M1104 312Q1130 310 1150 330M1104 312Q1090 277 1097 248" fill="none" stroke="#100d24" stroke-opacity=".7" stroke-width="7" stroke-linecap="round"/>
+  <path d="M755 416L840 44M815 416L900 44M875 416L960 44M935 416L1020 44M995 416L1080 44" stroke="#ff8bc2" stroke-opacity=".045"/>
+ </g>
  <text x="752" y="80" class="mono" font-size="15" font-weight="700" fill="#e6edf3">BTCUSDT</text>
  <text x="830" y="80" class="mono" font-size="11" fill="#6e7681">spot · order book</text>
  <circle cx="1020" cy="75" r="4.5" fill="#d29922" class="pulse"/>
