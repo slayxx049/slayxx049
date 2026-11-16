@@ -1,4 +1,4 @@
-<a href="https://ai-j0b-finder.streamlit.app/"><img src="./assets/profile-hero.svg?v=3b40e48" width="100%" alt="slayxx049 — CSE and AI/ML builder. SENSEX market-style demo panel with clearly labelled synthetic sample data."/></a>
+<a href="https://ai-j0b-finder.streamlit.app/"><img src="./assets/profile-hero.svg?v=ace2472" width="100%" alt="slayxx049 — CSE and AI/ML builder. SENSEX market-style demo panel with clearly labelled synthetic sample data."/></a>
 
 <p align="center">
   <a href="https://slayxx049.github.io/build-port/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
