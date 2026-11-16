@@ -59,7 +59,7 @@
   <path d="M748 416V365H768V416M778 416V350H802V416M816 416V370H842V416M1070 416V354H1096V416M1104 416V334H1128V416" fill="#100d24" fill-opacity=".92"/>
   <path d="M1092 416Q1098 360 1112 326M1112 326Q1084 315 1074 291M1112 326Q1122 294 1142 278M1112 326Q1138 326 1154 344M1112 326Q1098 294 1103 268" fill="none" stroke="#100d24" stroke-width="7" stroke-linecap="round"/>
   <path d="M746 416L822 44M796 416L872 44M846 416L922 44M896 416L972 44M946 416L1022 44M996 416L1072 44" stroke="#ffb1d1" stroke-opacity=".08"/>
-  <rect x="730" y="44" width="410" height="372" fill="#0d1117"/>
+  <rect x="740" y="54" width="390" height="352" rx="12" fill="#0d1117"/>
  </g>
  <rect x="730" y="44" width="410" height="372" rx="16" fill="none" stroke="#30363d"/>
  <text x="752" y="80" class="mono" font-size="15" font-weight="700" fill="#e6edf3">BTCUSDT</text>
