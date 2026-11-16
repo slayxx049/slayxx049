@@ -1,4 +1,4 @@
-<a href="https://github.com/slayxx049/ai-job-finder"><img src="./assets/profile-hero.svg" width="100%" alt="slayxx049 — CSE and AI/ML builder. SENSEX market-style demo panel with clearly labelled synthetic sample data."/></a>
+<a href="https://ai-j0b-finder.streamlit.app/"><img src="./assets/profile-hero.svg" width="100%" alt="slayxx049 — CSE and AI/ML builder. SENSEX market-style demo panel with clearly labelled synthetic sample data."/></a>
 
 <p align="center">
   <a href="https://slayxx049.github.io/build-port/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -20,7 +20,7 @@ A Python-based job-discovery application that collects opportunities and compare
 ## Selected work
 
 <p align="center">
-  <a href="https://github.com/slayxx049/ai-job-finder"><img src="./assets/ai-job-finder.svg" width="49%" alt="AI Job Finder — Python and Streamlit job discovery with rule-based profile matching."/></a>
+  <a href="https://ai-j0b-finder.streamlit.app/"><img src="./assets/ai-job-finder.svg" width="49%" alt="AI Job Finder — Python and Streamlit job discovery with rule-based profile matching."/></a>
   <a href="https://github.com/slayxx049/my-ai-agent"><img src="./assets/youtube-agent.svg" width="49%" alt="YouTube Automation Agent — in-progress video workflow tooling."/></a>
 </p>
 <p align="center">
