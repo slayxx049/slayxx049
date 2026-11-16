@@ -24,17 +24,7 @@
 .tickA{animation:tickA 4s steps(1) infinite}.tickB{animation:tickB 4s steps(1) infinite}@keyframes tickA{0%{opacity:1}50%{opacity:0}}@keyframes tickB{0%{opacity:0}50%{opacity:1}}
 .rise{opacity:0;animation:rise .8s cubic-bezier(.2,.7,.2,1) forwards}@keyframes rise{to{opacity:1;transform:none}}.r2{animation-delay:.12s}.r3{animation-delay:.24s}.r4{animation-delay:.36s}.r5{animation-delay:.48s}
 </style>
-<g clip-path="url(#frame)">
- <rect width="1200" height="460" fill="#11101d"/>
- <rect width="1200" height="460" fill="url(#wideVice)"/>
- <circle cx="610" cy="230" r="340" fill="url(#wideSun)"/>
- <path d="M0 366H1200M0 382H1200M0 398H1200M0 414H1200" stroke="#ffb0cb" stroke-opacity=".10"/>
- <path d="M0 460L0 418Q28 405 48 418V460M52 460V402H82V460M88 460V426H116V460M1090 460V416H1116V460M1122 460V390H1152V460M1158 460V424H1200V460" fill="#100d24" fill-opacity=".44"/>
- <path d="M32 460Q48 390 68 348M68 348Q34 336 22 308M68 348Q80 315 112 298M68 348Q96 346 122 365M68 348Q53 314 58 284M1144 460Q1134 391 1116 350M1116 350Q1084 341 1072 315M1116 350Q1127 317 1156 298M1116 350Q1147 350 1174 372M1116 350Q1101 318 1106 286" fill="none" stroke="#100d24" stroke-opacity=".66" stroke-width="8" stroke-linecap="round"/>
- <rect width="1200" height="460" fill="url(#grid)"/>
- <rect width="1200" height="460" fill="url(#glowA)" opacity=".45"/>
- <rect width="1200" height="460" fill="url(#glowB)" opacity=".45"/>
-</g>
+<g clip-path="url(#frame)"><rect width="1200" height="460" fill="url(#bg)"/><rect width="1200" height="460" fill="url(#grid)"/><rect width="1200" height="460" fill="url(#glowA)"/><rect width="1200" height="460" fill="url(#glowB)"/></g>
 <rect x=".5" y=".5" width="1199" height="459" rx="22" fill="none" stroke="#30363d"/>
 <g class="rise">
  <rect x="60" y="48" width="196" height="30" rx="15" fill="#3fb950" fill-opacity=".1" stroke="#3fb950" stroke-opacity=".45"/>
@@ -59,15 +49,19 @@
  <g class="commandOut"><text x="78" y="388" class="mono" font-size="14" fill="#8b949e">status: <tspan fill="#3fb950" font-weight="700">project workspace ready</tspan></text></g>
 </g>
 <g class="rise r3">
- <rect x="730" y="44" width="410" height="372" rx="16" fill="#0d1117" stroke="#30363d"/>
  <g clip-path="url(#financeScene)">
-  <rect x="730" y="44" width="410" height="372" fill="url(#viceCity)" opacity=".42"/>
-  <circle cx="1060" cy="145" r="92" fill="url(#viceSun)" opacity=".62"/>
-  <circle cx="1060" cy="145" r="48" fill="#ffb17c" fill-opacity=".10"/>
-  <path d="M730 350H1140M730 366H1140M730 382H1140M730 398H1140" stroke="#ff9acb" stroke-opacity=".09"/>
-  <path d="M1080 416Q1088 354 1104 312M1104 312Q1074 298 1064 273M1104 312Q1114 277 1140 260M1104 312Q1130 310 1150 330M1104 312Q1090 277 1097 248" fill="none" stroke="#100d24" stroke-opacity=".7" stroke-width="7" stroke-linecap="round"/>
-  <path d="M755 416L840 44M815 416L900 44M875 416L960 44M935 416L1020 44M995 416L1080 44" stroke="#ff8bc2" stroke-opacity=".045"/>
+  <rect x="730" y="44" width="410" height="372" fill="#171126"/>
+  <rect x="730" y="44" width="410" height="372" fill="url(#viceCity)" opacity=".88"/>
+  <circle cx="1054" cy="158" r="104" fill="url(#viceSun)" opacity=".95"/>
+  <circle cx="1054" cy="158" r="42" fill="#ffc18f" fill-opacity=".24"/>
+  <path d="M730 286H1140M730 298H1140M730 310H1140M730 322H1140M730 334H1140" stroke="#ff9acb" stroke-opacity=".20"/>
+  <path d="M730 372L778 332H810L846 350H874L914 318H946L982 342H1010L1050 314H1084L1120 330H1140V416H730Z" fill="#171126" fill-opacity=".84"/>
+  <path d="M748 416V365H768V416M778 416V350H802V416M816 416V370H842V416M1070 416V354H1096V416M1104 416V334H1128V416" fill="#100d24" fill-opacity=".92"/>
+  <path d="M1092 416Q1098 360 1112 326M1112 326Q1084 315 1074 291M1112 326Q1122 294 1142 278M1112 326Q1138 326 1154 344M1112 326Q1098 294 1103 268" fill="none" stroke="#100d24" stroke-width="7" stroke-linecap="round"/>
+  <path d="M746 416L822 44M796 416L872 44M846 416L922 44M896 416L972 44M946 416L1022 44M996 416L1072 44" stroke="#ffb1d1" stroke-opacity=".08"/>
+  <rect x="730" y="44" width="410" height="372" fill="#0d1117" fill-opacity=".42"/>
  </g>
+ <rect x="730" y="44" width="410" height="372" rx="16" fill="none" stroke="#30363d"/>
  <text x="752" y="80" class="mono" font-size="15" font-weight="700" fill="#e6edf3">BTCUSDT</text>
  <text x="830" y="80" class="mono" font-size="11" fill="#6e7681">spot · order book</text>
  <circle cx="1020" cy="75" r="4.5" fill="#d29922" class="pulse"/>
