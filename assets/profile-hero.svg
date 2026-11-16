@@ -41,8 +41,13 @@
   <path d="M0 426H730M0 440H730M0 454H730"/>
   <path d="M40 460L220 340M130 460L270 340M220 460L320 340M310 460L370 340M400 460L420 340M490 460L470 340M580 460L520 340M670 460L570 340"/>
  </g>
- <g fill="none" stroke="#17102c" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity=".72">
-  <path d="M680 348Q672 300 686 256M686 256Q652 248 635 224M686 256Q696 222 724 205M686 256Q718 258 739 282M686 256Q674 220 680 190"/>
+ <g opacity=".68" stroke="#17102c" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M680 350Q679 330 687 309Q691 299 692 290" fill="none" stroke-width="6"/>
+  <path d="M692 292Q673 272 650 278Q666 268 685 283Q666 253 641 254Q669 250 691 280Q680 252 687 232Q699 258 696 282Q711 258 734 258Q715 268 699 289Q724 279 742 293Q717 288 697 300" fill="none" stroke-width="5"/>
+  <path d="M686 285Q679 276 674 267M694 281Q701 268 708 263M692 290Q710 286 722 286" fill="none" stroke="#17102c" stroke-width="2.5"/>
+  <circle cx="690" cy="295" r="4" fill="#17102c" stroke="none"/>
+  <circle cx="697" cy="296" r="4" fill="#17102c" stroke="none"/>
+  <circle cx="693" cy="302" r="4" fill="#17102c" stroke="none"/>
  </g>
  <g fill="#17102c" opacity=".72">
   <path d="M0 416H28V382H52V416H76V368H98V416H128V390H152V416H184V376H210V416H238V398H264V416H730V460H0Z"/>
