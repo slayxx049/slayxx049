@@ -37,6 +37,7 @@ A Python-based job-discovery application that collects opportunities and compare
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,python,git,github,cpp,c&perline=6&theme=dark" alt="HTML, Python, Git, GitHub, C++ and C"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" height="48" alt="GNU Bash official logo"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
 
