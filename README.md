@@ -13,7 +13,7 @@
 
 A Python-based job-discovery application that collects opportunities and compares them against a candidate profile. Its matching logic uses explicit, rule-based signals so results can be reviewed rather than treated as unexplained AI decisions.
 
-<a href="https://github.com/slayxx049/ai-job-finder"><img src="./assets/ai-job-finder-architecture.svg" width="100%" alt="AI Job Finder architecture: candidate profile and job sources flow through parsing, rule-based scoring, ranked opportunities, and the Streamlit interface."/></a>
+<a href="https://ai-j0b-finder.streamlit.app/"><img src="./assets/ai-job-finder-architecture.svg" width="100%" alt="AI Job Finder architecture: candidate profile and job sources flow through parsing, rule-based scoring, ranked opportunities, and the Streamlit interface."/></a>
 
 <p align="center"><sub>Job discovery · profile matching · explainable scoring · ranked results</sub></p>
 
