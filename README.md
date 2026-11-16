@@ -21,7 +21,7 @@ A Python-based job-discovery application that collects opportunities and compare
 
 <p align="center">
   <a href="https://ai-j0b-finder.streamlit.app/"><img src="./assets/ai-job-finder.svg" width="49%" alt="AI Job Finder — Python and Streamlit job discovery with rule-based profile matching."/></a>
-  <a href="https://github.com/slayxx049/dmb_web_daily-mini-byte"><img src="./assets/daily-mini-bytes.svg" width="49%" alt="Daily Mini Bytes — news, blog and technology platform."/></a>
+  <a href="https://github.com/slayxx049/dmb_web_daily-mini-byte"><img src="./assets/daily-mini-bytes.svg?v=554dcf0" width="49%" alt="Daily Mini Bytes — news, blog and technology platform."/></a>
 </p>
 <p align="center">
   <a href="https://github.com/slayxx049/build-port"><img src="./assets/build-port.svg" width="49%" alt="Portfolio and build log — web project documenting builds and experiments."/></a>
