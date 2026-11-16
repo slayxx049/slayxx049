@@ -43,9 +43,13 @@
  </g>
  <g fill="#05050b" stroke="#05050b" stroke-linecap="round" stroke-linejoin="round" opacity=".96">
   <path d="M663 350Q679 321 696 294Q708 273 715 251Q718 242 720 234Q722 255 715 278Q706 305 691 329Q679 347 676 350Z" stroke-width="1"/>
-  <!-- Simplified palm crown: broad, clean fronds with no fine leaflet detail. -->
+  <!-- Coconut-palm crown: a few long, smooth fronds that bend and droop naturally. -->
   <g fill="#05050b" stroke="#05050b" stroke-linecap="round" stroke-linejoin="round">
-   <path d="M710 253Q679 224 638 216Q677 216 708 247Q684 209 680 177Q704 207 715 249Q715 204 740 178Q729 217 718 253Q747 220 784 216Q752 239 719 259Q760 244 800 263Q758 259 718 266Q752 279 768 310Q739 288 712 267Q704 292 674 310Q694 282 704 257Z"/>
+   <path d="M713 252Q680 235 643 241Q671 236 697 246Q663 245 626 269Q662 249 710 260Q682 251 713 252Z"/>
+   <path d="M713 252Q685 224 675 187Q692 216 716 246Q701 215 713 181Q714 216 720 250Q719 220 744 198Q727 228 718 257Z"/>
+   <path d="M714 253Q742 223 779 218Q751 235 724 257Q755 244 798 255Q759 253 718 265Z"/>
+   <path d="M715 256Q751 250 789 276Q756 263 724 266Q753 277 770 307Q743 284 714 267Z"/>
+   <path d="M710 257Q702 285 672 309Q692 281 703 258Q680 278 649 282Q679 264 710 257Z"/>
   </g>>>
  </g>
  <g fill="#17102c" opacity=".72">
